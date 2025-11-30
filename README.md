@@ -1,0 +1,6 @@
+        OSINT
+==========================
+Ferramentas Online de investigação de 
+contas de usuario.
+"ATENÇÃO: Caso os Sites tenham sido desativados
+eles podem não funcionar.
